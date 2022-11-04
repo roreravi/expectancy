@@ -66,10 +66,11 @@ def main():
     Xa_train = sm.add_constant(Xa_train, prepend=True)
     modelo_a = sm.OLS(endog=ya_train, exog=Xa_train,)
     modelo_a = modelo_a.fit()
-    st.write(modelo_a.summary())
+    
     Xb_train = sm.add_constant(Xb_train, prepend=True)
     modelo_b = sm.OLS(endog=yb_train, exog=Xb_train,)
     modelo_b = modelo_b.fit()
+    st.write(modelo_b.summary())
     # Hacemos las predicciones sobre el set de prueba
     ya_train = ya_train.flatten()
     prediccion_train = modelo_a.predict(exog = Xa_train)
