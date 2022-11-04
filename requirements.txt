@@ -63,6 +63,7 @@ pickleshare==0.7.5
 Pillow==9.2.0
 platformdirs==2.5.2
 plotly==5.10.0
+plotly_express==0.4.0
 prometheus-client==0.14.1
 prompt-toolkit==3.0.29
 psutil==5.9.1
