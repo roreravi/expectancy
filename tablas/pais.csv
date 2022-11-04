@@ -1,0 +1,176 @@
+id,Iso2,Iso3,nombre,longitude,latitude,región
+2.0,AF,AFG,Afganistán,69.1761,34.5228,Asia meridional
+5.0,AL,ALB,Albania,19.8172,41.3317,Europa y Asia central
+60.0,DZ,DZA,Argelia,3.05097,36.7397,Oriente Medio y Norte de África
+11.0,AS,ASM,Samoa Americana,-170.691,-14.2846,Asia oriental y el Pacífico 
+6.0,AD,AND,Andorra,1.5218,42.5075,Europa y Asia central
+4.0,AO,AGO,Angola,13.242,-8.81155,África al sur del Sahara
+12.0,AG,ATG,Antigua y Barbuda,-61.8456,17.1175,América Latina y el Caribe 
+9.0,AR,ARG,Argentina,-58.4173,-34.6118,América Latina y el Caribe 
+10.0,AM,ARM,Armenia,44.509,40.1596,Europa y Asia central
+0.0,AW,ABW,Aruba,-70.0167,12.5167,América Latina y el Caribe 
+13.0,AU,AUS,Australia,149.129,-35.282,Asia oriental y el Pacífico 
+14.0,AT,AUT,Austria,16.3798,48.2201,Europa y Asia central
+15.0,AZ,AZE,Azerbaiyán,49.8932,40.3834,Europa y Asia central
+23.0,BS,BHS,Bahamas,-77.339,25.0661,América Latina y el Caribe 
+22.0,BH,BHR,Bahrein,50.5354,26.1921,Oriente Medio y Norte de África
+20.0,BD,BGD,Bangladesh,90.4113,23.7055,Asia meridional
+30.0,BB,BRB,Barbados,-59.6105,13.0935,América Latina y el Caribe 
+25.0,BY,BLR,Belarús,27.5766,53.9678,Europa y Asia central
+17.0,BE,BEL,Bélgica,4.36761,50.8371,Europa y Asia central
+26.0,BZ,BLZ,Belice,-88.7713,17.2534,América Latina y el Caribe 
+18.0,BJ,BEN,Benin,2.6323,6.4779,África al sur del Sahara
+27.0,BM,BMU,Bermudas,-64.706,32.3293,América del Norte
+32.0,BT,BTN,Bhután,89.6177,27.5768,Asia meridional
+28.0,BO,BOL,Bolivia,-66.1936,-13.9908,América Latina y el Caribe 
+24.0,BA,BIH,Bosnia y Herzegovina,18.4214,43.8607,Europa y Asia central
+33.0,BW,BWA,Botswana,25.9201,-24.6544,África al sur del Sahara
+29.0,BR,BRA,Brasil,-47.9292,-15.7801,América Latina y el Caribe 
+31.0,BN,BRN,Brunei Darussalam,114.946,4.94199,Asia oriental y el Pacífico 
+21.0,BG,BGR,Bulgaria,23.3238,42.7105,Europa y Asia central
+19.0,BF,BFA,Burkina Faso,-1.53395,12.3605,África al sur del Sahara
+16.0,BI,BDI,Burundi,29.3639,-3.3784,África al sur del Sahara
+47.0,CV,CPV,Cabo Verde,-23.5087,14.9218,África al sur del Sahara
+121.0,KH,KHM,Camboya,104.874,11.5556,Asia oriental y el Pacífico 
+42.0,CM,CMR,Camerún,11.5174,3.8721,África al sur del Sahara
+35.0,CA,CAN,Canadá,-75.6919,45.4215,América del Norte
+52.0,KY,CYM,Islas Caimán,-81.3857,19.3022,América Latina y el Caribe 
+34.0,CF,CAF,República Centroafricana,21.6407,5.63056,África al sur del Sahara
+225.0,TD,TCD,Chad,15.0445,12.1048,África al sur del Sahara
+39.0,CL,CHL,Chile,-70.6475,-33.475,América Latina y el Caribe 
+40.0,CN,CHN,China,116.286,40.0495,Asia oriental y el Pacífico 
+45.0,CO,COL,Colombia,-74.082,4.60987,América Latina y el Caribe 
+46.0,KM,COM,Comoras,43.2418,-11.6986,África al sur del Sahara
+43.0,CD,COD,"Congo, República Democrática del",15.3222,-4.325,África al sur del Sahara
+44.0,CG,COG,"Congo, República del",15.2662,-4.2767,África al sur del Sahara
+48.0,CR,CRI,Costa Rica,-84.0089,9.63701,América Latina y el Caribe 
+41.0,CI,CIV,Côte d'Ivoire,-4.0305,5.332,África al sur del Sahara
+98.0,HR,HRV,Croacia,15.9614,45.8069,Europa y Asia central
+50.0,CU,CUB,Cuba,-82.3667,23.1333,América Latina y el Caribe 
+53.0,CY,CYP,Chipre,33.3736,35.1676,Europa y Asia central
+54.0,CZ,CZE,República Checa,14.4205,50.0878,Europa y Asia central
+58.0,DK,DNK,Dinamarca,12.5681,55.6763,Europa y Asia central
+56.0,DJ,DJI,Djibouti,43.1425,11.5806,Oriente Medio y Norte de África
+57.0,DM,DMA,Dominica,-61.39,15.2976,América Latina y el Caribe 
+59.0,DO,DOM,República Dominicana,-69.8908,18.479,América Latina y el Caribe 
+66.0,EC,ECU,Ecuador,-78.5243,-0.229498,América Latina y el Caribe 
+67.0,EG,EGY,"Egipto, República Árabe de",31.2461,30.0982,Oriente Medio y Norte de África
+207.0,SV,SLV,El Salvador,-89.2073,13.7034,América Latina y el Caribe 
+88.0,GQ,GNQ,Guinea Ecuatorial,8.7741,3.7523,África al sur del Sahara
+69.0,ER,ERI,Eritrea,38.9183,15.3315,África al sur del Sahara
+71.0,EE,EST,Estonia,24.7586,59.4392,Europa y Asia central
+220.0,SZ,SWZ,Eswatini,31.4659,-26.5225,África al sur del Sahara
+72.0,ET,ETH,Etiopía,38.7468,9.02274,África al sur del Sahara
+78.0,FO,FRO,Islas Feroe,-6.91181,61.8926,Europa y Asia central
+76.0,FJ,FJI,Fiji,178.399,-18.1149,Asia oriental y el Pacífico 
+75.0,FI,FIN,Finlandia,24.9525,60.1608,Europa y Asia central
+77.0,FR,FRA,Francia,2.35097,48.8566,Europa y Asia central
+80.0,GA,GAB,Gabón,9.45162,0.38832,África al sur del Sahara
+86.0,GM,GMB,Gambia,-16.5885,13.4495,África al sur del Sahara
+82.0,GE,GEO,Georgia,44.793,41.71,Europa y Asia central
+55.0,DE,DEU,Alemania,13.4115,52.5235,Europa y Asia central
+83.0,GH,GHA,Ghana,-0.20795,5.57045,África al sur del Sahara
+89.0,GR,GRC,Grecia,23.7166,37.9792,Europa y Asia central
+91.0,GL,GRL,Groenlandia,-51.7214,64.1836,Europa y Asia central
+90.0,GD,GRD,Granada,-61.7449,12.0653,América Latina y el Caribe 
+93.0,GU,GUM,Guam,144.794,13.4443,Asia oriental y el Pacífico 
+92.0,GT,GTM,Guatemala,-90.5328,14.6248,América Latina y el Caribe 
+85.0,GN,GIN,Guinea,-13.7,9.51667,África al sur del Sahara
+87.0,GW,GNB,Guinea-Bissau,-15.1804,11.8037,África al sur del Sahara
+94.0,GY,GUY,Guyana,-58.1548,6.80461,América Latina y el Caribe 
+99.0,HT,HTI,Haití,-72.3288,18.5392,América Latina y el Caribe 
+96.0,HN,HND,Honduras,-87.4667,15.1333,América Latina y el Caribe 
+95.0,HK,HKG,"Hong Kong, Región Administrativa Especial",114.109,22.3964,Asia oriental y el Pacífico 
+100.0,HU,HUN,Hungría,19.0408,47.4984,Europa y Asia central
+112.0,IS,ISL,Islandia,-21.8952,64.1353,Europa y Asia central
+108.0,IN,IND,India,77.225,28.6353,Asia meridional
+105.0,ID,IDN,Indonesia,106.83,-6.19752,Asia oriental y el Pacífico 
+110.0,IR,IRN,"Irán, República Islámica del",51.4447,35.6878,Oriente Medio y Norte de África
+111.0,IQ,IRQ,Iraq,44.394,33.3302,Oriente Medio y Norte de África
+109.0,IE,IRL,Irlanda,-6.26749,53.3441,Europa y Asia central
+107.0,IM,IMN,Isla de Man,-4.47928,54.1509,Europa y Asia central
+113.0,IL,ISR,Israel,35.2035,31.7717,Oriente Medio y Norte de África
+114.0,IT,ITA,Italia,12.4823,41.8955,Europa y Asia central
+115.0,JM,JAM,Jamaica,-76.792,17.9927,América Latina y el Caribe 
+117.0,JP,JPN,Japón,139.77,35.67,Asia oriental y el Pacífico 
+116.0,JO,JOR,Jordania,35.9263,31.9497,Oriente Medio y Norte de África
+118.0,KZ,KAZ,Kazajstán,71.4382,51.1879,Europa y Asia central
+119.0,KE,KEN,Kenya,36.8126,-1.27975,África al sur del Sahara
+122.0,KI,KIR,Kiribati,172.979,1.32905,Asia oriental y el Pacífico 
+189.0,KP,PRK,"Corea, República Popular Democrática de",125.754,39.0319,Asia oriental y el Pacífico 
+124.0,KR,KOR,"Corea, República de",126.957,37.5323,Asia oriental y el Pacífico 
+125.0,KW,KWT,Kuwait,47.9824,29.3721,Oriente Medio y Norte de África
+120.0,KG,KGZ,Kirguistán,74.6057,42.8851,Europa y Asia central
+127.0,LA,LAO,República Democrática Popular Lao,102.177,18.5826,Asia oriental y el Pacífico 
+141.0,LV,LVA,Letonia,24.1048,56.9465,Europa y Asia central
+128.0,LB,LBN,Líbano,35.5134,33.8872,Oriente Medio y Norte de África
+137.0,LS,LSO,Lesotho,27.7167,-29.5208,África al sur del Sahara
+129.0,LR,LBR,Liberia,-10.7957,6.30039,África al sur del Sahara
+130.0,LY,LBY,Libia,13.1072,32.8578,Oriente Medio y Norte de África
+134.0,LI,LIE,Liechtenstein,9.52148,47.1411,Europa y Asia central
+139.0,LT,LTU,Lituania,25.2799,54.6896,Europa y Asia central
+140.0,LU,LUX,Luxemburgo,6.1296,49.61,Europa y Asia central
+142.0,MO,MAC,"Región Administrativa Especial de Macao, China",113.55,22.1667,Asia oriental y el Pacífico 
+147.0,MG,MDG,Madagascar,45.7167,-20.4667,África al sur del Sahara
+164.0,MW,MWI,Malawi,33.7703,-13.9899,África al sur del Sahara
+165.0,MY,MYS,Malasia,101.684,3.12433,Asia oriental y el Pacífico 
+148.0,MV,MDV,Maldivas,73.5109,4.1742,Asia meridional
+154.0,ML,MLI,Malí,-7.50034,13.5667,África al sur del Sahara
+151.0,MH,MHL,Islas Marshall,171.135,7.11046,Asia oriental y el Pacífico 
+162.0,MR,MRT,Mauritania,-15.9824,18.2367,África al sur del Sahara
+163.0,MU,MUS,Mauricio,57.4977,-20.1605,África al sur del Sahara
+150.0,MX,MEX,México,-99.1276,19.427,América Latina y el Caribe 
+79.0,FM,FSM,Micronesia (Estados Federados de),158.185,6.91771,Asia oriental y el Pacífico 
+146.0,MD,MDA,República de Moldova,28.8497,47.0167,Europa y Asia central
+159.0,MN,MNG,Mongolia,106.937,47.9129,Asia oriental y el Pacífico 
+158.0,ME,MNE,Montenegro,19.2595,42.4602,Europa y Asia central
+144.0,MA,MAR,Marruecos,-6.8704,33.9905,Oriente Medio y Norte de África
+161.0,MZ,MOZ,Mozambique,32.5713,-25.9664,África al sur del Sahara
+156.0,MM,MMR,Myanmar,95.9562,21.914,Asia oriental y el Pacífico 
+167.0,NA,NAM,Namibia,17.0931,-22.5648,África al sur del Sahara
+174.0,NP,NPL,Nepal,85.3157,27.6939,Asia meridional
+171.0,NI,NIC,Nicaragua,-86.2734,12.1475,América Latina y el Caribe 
+169.0,NE,NER,Níger,2.1073,13.514,África al sur del Sahara
+170.0,NG,NGA,Nigeria,7.48906,9.05804,África al sur del Sahara
+153.0,MK,MKD,Macedonia del Norte,21.4361,42.0024,Europa y Asia central
+180.0,PK,PAK,Pakistán,72.8,30.5167,Asia meridional
+184.0,PW,PLW,Palau,134.479,7.34194,Asia oriental y el Pacífico 
+185.0,PG,PNG,Papua Nueva Guinea,147.194,-9.47357,Asia oriental y el Pacífico 
+191.0,PY,PRY,Paraguay,-57.6362,-25.3005,América Latina y el Caribe 
+182.0,PE,PER,Perú,-77.0465,-12.0931,América Latina y el Caribe 
+183.0,PH,PHL,Filipinas,121.035,14.5515,Asia oriental y el Pacífico 
+198.0,RU,RUS,Federación de Rusia,37.6176,55.7558,Europa y Asia central
+199.0,RW,RWA,Rwanda,30.0587,-1.95325,África al sur del Sahara
+215.0,ST,STP,Santo Tomé y Príncipe,6.6071,0.20618,África al sur del Sahara
+203.0,SN,SEN,Senegal,-17.4734,14.7247,África al sur del Sahara
+210.0,RS,SRB,Serbia,20.4656,44.8024,Europa y Asia central
+206.0,SL,SLE,Sierra Leona,-13.2134,8.4821,África al sur del Sahara
+205.0,SB,SLB,Islas Salomón,159.949,-9.42676,Asia oriental y el Pacífico 
+209.0,SO,SOM,Somalia,45.3254,2.07515,África al sur del Sahara
+212.0,SS,SSD,Sudán del Sur,31.6,4.85,África al sur del Sahara
+70.0,ES,ESP,España,-3.70327,40.4167,Europa y Asia central
+135.0,LK,LKA,Sri Lanka,79.8528,6.92148,Asia meridional
+123.0,KN,KNA,Saint Kitts y Nevis,-62.7309,17.3,América Latina y el Caribe 
+131.0,LC,LCA,Santa Lucía,-60.9832,14,América Latina y el Caribe 
+202.0,SD,SDN,Sudán,32.5363,15.5932,África al sur del Sahara
+216.0,SR,SUR,Suriname,-55.1679,5.8232,América Latina y el Caribe 
+37.0,CH,CHE,Suiza,7.44821,46.948,Europa y Asia central
+223.0,SY,SYR,República Árabe Siria,36.3119,33.5146,Oriente Medio y Norte de África
+230.0,TJ,TJK,Tayikistán,68.7864,38.5878,Europa y Asia central
+242.0,TZ,TZA,Tanzanía,35.7382,-6.17486,África al sur del Sahara
+229.0,TH,THA,Tailandia,100.521,13.7308,Asia oriental y el Pacífico 
+233.0,TL,TLS,Timor-Leste,125.567,-8.56667,Asia oriental y el Pacífico 
+228.0,TG,TGO,Togo,1.2255,6.1228,África al sur del Sahara
+235.0,TO,TON,Tonga,-175.216,-21.136,Asia oriental y el Pacífico 
+239.0,TN,TUN,Túnez,10.21,36.7899,Oriente Medio y Norte de África
+240.0,TR,TUR,Turquía,32.3606,39.7153,Europa y Asia central
+231.0,TM,TKM,Turkmenistán,58.3794,37.9509,Europa y Asia central
+243.0,UG,UGA,Uganda,32.5729,0.314269,África al sur del Sahara
+244.0,UA,UKR,Ucrania,30.5038,50.4536,Europa y Asia central
+8.0,AE,ARE,Emiratos Árabes Unidos,54.3705,24.4764,Oriente Medio y Norte de África
+81.0,GB,GBR,Reino Unido,-0.126236,51.5002,Europa y Asia central
+246.0,US,USA,Estados Unidos,-95.712891,37.0902,América del Norte
+247.0,UZ,UZB,Uzbekistán,69.269,41.3052,Europa y Asia central
+249.0,VE,VEN,Venezuela,-69.8371,9.08165,América Latina y el Caribe 
+257.0,YE,YEM,"Yemen, Rep. del",44.2075,15.352,Oriente Medio y Norte de África
+259.0,ZM,ZMB,Zambia,28.2937,-15.3982,África al sur del Sahara
